@@ -28,12 +28,12 @@ const Header = () => {
             </h4> */}
             
             <Link to={"/signin"}>
-              <button className='btn1'> 
+              <button className='headbtn1' id="hbtn"> 
                     Вход
               </button>
             </Link>
             <Link to={"/signup"}>
-              <button className='btn1'> 
+              <button className='headbtn1'> 
                     Регистрация
               </button>
             </Link>

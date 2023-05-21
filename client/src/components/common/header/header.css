@@ -8,6 +8,7 @@ header {
   z-index: 99999;
 }
 header img {
+  margin-top: 10px;
   width: 170px;
 }
 header a {
@@ -33,6 +34,16 @@ header h4 {
 }
 header .toggle {
   display: none;
+}
+
+button .headbtn1 #hbtn{
+  border-radius: 5px;
+  
+  background: #378BA4;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
 }
 @media screen and (max-width: 768px) {
   header {
