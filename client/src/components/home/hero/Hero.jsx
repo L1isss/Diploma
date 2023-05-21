@@ -43,7 +43,7 @@ const Hero = () => {
               </select>
             </div>
 
-            <button className='btn1'>
+            <button className='btnsearth'>
               <i className='fa fa-search'></i>
             </button>
           </form>
